@@ -18,5 +18,8 @@
         "gl-matrix": "^3.4.3",
         "typescript": "^5.1.0-dev.20230508",
         "vite": "^4.3.5"
+    },
+    "dependencies": {
+        "eslint": "^9.10.0"
     }
 }
